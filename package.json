@@ -43,10 +43,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  }, 
+  },
   "homepage": "https://github.com/MunjN/movielabs-ai-dashboard-react"
-
-
 }
-
-
