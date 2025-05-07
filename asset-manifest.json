@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MunjN/movielabs-ai-dashboard-react/static/css/main.7ef5abaa.css",
-    "main.js": "/MunjN/movielabs-ai-dashboard-react/static/js/main.6e58a0c0.js",
-    "static/js/453.1f27d3c4.chunk.js": "/MunjN/movielabs-ai-dashboard-react/static/js/453.1f27d3c4.chunk.js",
-    "index.html": "/MunjN/movielabs-ai-dashboard-react/index.html",
-    "main.7ef5abaa.css.map": "/MunjN/movielabs-ai-dashboard-react/static/css/main.7ef5abaa.css.map",
-    "main.6e58a0c0.js.map": "/MunjN/movielabs-ai-dashboard-react/static/js/main.6e58a0c0.js.map",
-    "453.1f27d3c4.chunk.js.map": "/MunjN/movielabs-ai-dashboard-react/static/js/453.1f27d3c4.chunk.js.map"
+    "main.css": "/movielabs-ai-dashboard-react/static/css/main.7ef5abaa.css",
+    "main.js": "/movielabs-ai-dashboard-react/static/js/main.ff99d8b1.js",
+    "static/js/453.1f27d3c4.chunk.js": "/movielabs-ai-dashboard-react/static/js/453.1f27d3c4.chunk.js",
+    "index.html": "/movielabs-ai-dashboard-react/index.html",
+    "main.7ef5abaa.css.map": "/movielabs-ai-dashboard-react/static/css/main.7ef5abaa.css.map",
+    "main.ff99d8b1.js.map": "/movielabs-ai-dashboard-react/static/js/main.ff99d8b1.js.map",
+    "453.1f27d3c4.chunk.js.map": "/movielabs-ai-dashboard-react/static/js/453.1f27d3c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ef5abaa.css",
-    "static/js/main.6e58a0c0.js"
+    "static/js/main.ff99d8b1.js"
   ]
 }
